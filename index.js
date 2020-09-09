@@ -14,7 +14,6 @@ const compareNames = (name1, name2, maxEditDistance) => {
     .replace(/[\u0300-\u036f]/g, '')
     .replace('\u0110', 'D')
     .toLowerCase();
-  console.log(name1, name2);
   return editDistance(name1, name2, maxEditDistance);
 };
 
