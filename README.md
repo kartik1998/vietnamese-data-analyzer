@@ -1,5 +1,5 @@
 ## vietnam-data-analyzer
-![](https://img.shields.io/badge/npm-v1.0.0-green)
+![](https://img.shields.io/badge/npm-v2.0.0-brightgreen)
 ![](https://img.shields.io/badge/edit--distance-string--matching-orange) ![](https://img.shields.io/badge/vietnam-names-blue)
 
 **Comparison of vietnamese names and Addresses/Provinces with the added functionality of using editDistance for comparison.**
